@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - native_web_view (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - native_web_view (from `.symlinks/plugins/native_web_view/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  native_web_view:
+    :path: ".symlinks/plugins/native_web_view/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  native_web_view: a899ca693c1e1b584886012e752567c9be43c57a
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.6.1
